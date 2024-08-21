@@ -5,7 +5,7 @@ This project is to demo the load balancing with Litellm among different LLMs fro
 
 ## Setup
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 Ensure you have at least one AWS_PROFILE set up. Refer to [here](https://docs.aws.amazon.com/cli/v1/userguide/cli-configure-files.html) if you do not know what is AWS Profile.
 
